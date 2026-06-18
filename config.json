@@ -1,0 +1,16 @@
+{
+  "admob_config": {
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "guides": [
+    {
+      "id": 1,
+      "title": "Cara Mengajukan Pinjaman",
+      "image_url": "https://raw.githubusercontent.com/.../guide1.png",
+      "content": "...(long functional text around 600 words)..."
+    }
+  ]
+}
