@@ -1,9 +1,9 @@
 {
   "admob_config": {
-    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_id": "ca-app-pub-3940256099942544/2247696110",
-    "banner_id": "ca-app-pub-3940256099942544/6300978111"
+    "app_open_id": "ca-app-pub-4754459062262858/1175321181",
+    "interstitial_id": "ca-app-pub-4754459062262858/7927302497",
+    "native_id": "ca-app-pub-4754459062262858/4696835628",
+    "banner_id": "ca-app-pub-4754459062262858/1553465838"
   },
   "privacy_policy": "Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat menggunakan aplikasi Panduan Pinjaman Online. Kami berkomitmen penuh untuk menjaga privasi data Anda.\\n\\n1. Pengumpulan Informasi\\nAplikasi ini adalah aplikasi panduan yang bersifat edukatif. Kami TIDAK mengumpulkan informasi pribadi yang dapat diidentifikasi secara langsung seperti nama, alamat, nomor telepon, atau data keuangan Anda. Seluruh data preferensi usia, jenis kelamin, dan kalkulasi pinjaman yang Anda masukkan diproses secara lokal di perangkat Anda dan tidak disimpan di server kami.\\n\\n2. Layanan Pihak Ketiga\\nAplikasi kami menggunakan layanan iklan Google AdMob untuk menampilkan iklan (banner, intersial, dan native). Google AdMob dapat mengumpulkan data perangkat seperti ID periklanan Android (AAID) untuk tujuan personalisasi iklan dan analitik. Penggunaan data oleh Google diatur dalam Kebijakan Privasi Google Ads.\\n\\n3. Keamanan Data\\nKami sangat menghargai kepercayaan Anda dalam memberikan informasi kepada kami. Meskipun tidak ada metode transmisi data melalui internet yang 100% aman, kami berupaya menerapkan standar keamanan terbaik untuk melindungi aplikasi dari akses tidak sah.\\n\\n4. Perubahan Kebijakan Privasi\\nKami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Pengguna disarankan untuk memeriksa halaman ini secara berkala untuk mengetahui perubahan apa pun. Dengan terus menggunakan aplikasi, Anda dianggap menyetujui kebijakan yang berlaku.\\n\\nJika Anda memiliki pertanyaan tentang kebijakan privasi kami, silakan hubungi tim pengembang kami melalui email developer resmi.",
   "guides": [
